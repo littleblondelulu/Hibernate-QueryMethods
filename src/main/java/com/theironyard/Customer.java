@@ -2,7 +2,6 @@ package com.theironyard;
 
 import javax.persistence.*;
 
-//why do we use an empty constructor in our entity's?
 
 @Entity
 @Table(name = "customers")
